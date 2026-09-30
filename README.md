@@ -96,7 +96,7 @@ No third-party packages are required.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/password-generator.git
+git clone https://github.com/zoro-sachin/password_generator
 ```
 
 ### 2. Enter the project directory
